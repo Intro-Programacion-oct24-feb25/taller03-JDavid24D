@@ -1,3 +1,4 @@
+# Integrantes: Jorge Diaz Andrea Criollo
 # Taller3
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
 
