@@ -18,7 +18,7 @@ public class Ejercicio02 {
         // Resolución del problema
         int var1 = 10;
         int var2 = 2;
-        
+        System.out.println(Math.pow(var1, var2)+ var1);
                 
     }
     
