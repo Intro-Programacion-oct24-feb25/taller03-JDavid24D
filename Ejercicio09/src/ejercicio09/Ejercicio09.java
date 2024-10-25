@@ -22,6 +22,10 @@ public class Ejercicio09 {
         
         System.out.println(resultado);
         
+        boolean resultado2 = resultado >= 50;
+        
+        System.out.println(resultado2);
+        
         
     }
     
